@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mingding/AndroidStudioProjects/Try3/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/mingding/AndroidStudioProjects/Try3/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/mingding/AndroidStudioProjects/Try3/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/mingding/AndroidStudioProjects/Try3/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

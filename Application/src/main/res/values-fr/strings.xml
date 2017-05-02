@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Touchable</string>
+    <string name="ble_not_supported">BLE n\'est pas supporté</string>
+    <string name="connected">Connecté</string>
+    <string name="disconnected">Non Connecté</string>
+    <string name="error_bluetooth_not_supported">Bluetooth n\'est pas supporté.</string>
+    <string name="label_data">Donnée:</string>
+    <string name="label_device_address">Address de l\'appareil:</string>
+    <string name="label_state">Statu:</string>
+    <string name="menu_connect">Connecter</string>
+    <string name="menu_disconnect">Déconnecter</string>
+    <string name="menu_scan">Scanner</string>
+    <string name="menu_stop">Arrêter</string>
+    <string name="no_data">Pas de donnée</string>
+    <string name="rssi">RSSI:</string>
+    <string name="title_devices"></string>
+    <string name="title_touchable">Touchable</string>
+    <string name="unknown_characteristic">Caractéristique inconnu</string>
+    <string name="unknown_device">Appareil inconnu</string>
+    <string name="unknown_service">Service inconnu</string>
+</resources>
